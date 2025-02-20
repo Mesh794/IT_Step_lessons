@@ -47,4 +47,3 @@ print(song4 in playlist)
 playlist.remove_song(song4)
 for song in playlist:
     print(song)
-
